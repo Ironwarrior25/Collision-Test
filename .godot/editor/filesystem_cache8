@@ -1,0 +1,11 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1717051470
+icon.svg::CompressedTexture2D::2199405164670396626::1692601452::1692601457::1::::<><>::
+obstacle.tscn::PackedScene::3642534183120714249::1713433128::0::1::::<><>::uid://6ln48jk4p7ec::::res://icon.svg
+pickable.cs::CSharpScript::-1::1692711543::0::1::::<>Area2D<>::
+pickable.tscn::PackedScene::4412585005582993172::1713433128::0::1::::<><>::uid://6ln48jk4p7ec::::res://icon.svg<>res://pickable.cs
+player.cs::CSharpScript::-1::1692702588::0::1::::<>CharacterBody2D<>::
+player.tscn::PackedScene::6507574135811245961::1713433128::0::1::::<><>::uid://6ln48jk4p7ec::::res://icon.svg<>res://player.cs
+T-Testtileset.png::CompressedTexture2D::7981770764090918910::1693298121::1693298121::1::::<><>::
+tile_map.tscn::PackedScene::8115749377127726004::1713433128::0::1::::<><>::uid://dlyoulw5kas0e::::res://T-Testtileset.png
+world.tscn::PackedScene::5317894152101798702::1713433128::0::1::::<><>::uid://cyyk2bko8dyfx::::res://player.tscn<>uid://br5qagys6ir34::::res://obstacle.tscn<>uid://b34qvoxqmo0b5::::res://pickable.tscn<>uid://dnvlhay5b7p6k::::res://tile_map.tscn

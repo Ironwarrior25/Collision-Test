@@ -1,0 +1,5 @@
+res://world.tscn
+res://player.tscn
+res://obstacle.tscn
+res://pickable.tscn
+res://tile_map.tscn

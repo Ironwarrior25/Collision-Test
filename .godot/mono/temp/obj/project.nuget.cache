@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pHrttoeCK9yilRRSgZK8xh9dr9RxrSzHOYLXfgduyZ5iC5Xsf1ZZHLc77CObxMGyVsB8rIPfLUwi9URAqd0T+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jbulliard\\OneDrive - Band-Genossenschaft\\Desktop\\Gamedev\\Collision-Test\\Collision-Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jbulliard\\.nuget\\packages\\godot.sourcegenerators\\4.2.2\\godot.sourcegenerators.4.2.2.nupkg.sha512",
+    "C:\\Users\\jbulliard\\.nuget\\packages\\godotsharp\\4.2.2\\godotsharp.4.2.2.nupkg.sha512",
+    "C:\\Users\\jbulliard\\.nuget\\packages\\godotsharpeditor\\4.2.2\\godotsharpeditor.4.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
